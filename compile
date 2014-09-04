@@ -12,6 +12,6 @@ Dir.new("./pages").each do |file|
   end
 end
 
-system "htmldoc --book --titlefile 'html/00-Title Page.md.html' -f contract.pdf #{files}"
+system "htmldoc --no-toc --no-title -f contract.pdf #{files}"
 
 system "rm -rf html"

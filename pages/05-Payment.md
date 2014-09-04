@@ -9,13 +9,12 @@ payment. It's pretty simple, actually, and my reasoning behind this is actually
 both to minimize the risk for myself, the developer, and to give you, the client, some peace of mind.
 
 You, the client, will pay me at three (3) different points. Firstly, I'll need
-one-third of the total cost upfront. Then, I'll need the second third after
+one-third of the total cost before development starts (scope discussions are free of charge). Then, I'll need the second third after
 I show you the work I've done and you've approved it. Finally, I'll need the
 last third when I actually turn the code over to you (i.e. "made it live", sent it to you in an email, etc.). I do my best to be accommodating, but please understand
 that I am very serious about payment (as I'm sure you are too).
 
-Unless we arrange otherwise, I'd like to be paid by check, or cash if you're
-local and want to do it that way.
+I only accept electronic payments. The invoicing system I use will allow you to enter your credit card information, which will simultaneously mark the invoice as paid and transfer the money. If other arrangements need to be made to satisfy organizational requirement, we can attempt to make other arrangements before Scoping has started. If alternate arrangements are not made before scoping starts, this point is non-negotiable.
 
 4.02 Refunds and Payment Edge-Cases
 -----------------------------------
@@ -49,3 +48,4 @@ negative, if you, the client, refuse to pay me for whatever reason (assuming
 that I have completed the services as scoped), I will take legal action to
 ensure that I am paid. If the case is decided in my favor, you agree to
 reimburse me for any legal fees I accrue in the process.
+
