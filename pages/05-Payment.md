@@ -1,51 +1,34 @@
 4. Payment
 ==========
 
-4.01 How Payment Works
+4.01 Rates
+----------
+
+My hourly rate is $100/hour for everything except Discovery. My hourly rate for discovery is $50/hour.
+
+4.02 How Payment Works
 ----------------------
 
-Once we reach an agreeable scope and cost thereof, the next issue to discuss is
-payment. It's pretty simple, actually, and my reasoning behind this is actually
-both to minimize the risk for myself, the developer, and to give you, the client, some peace of mind.
+I try to make payments extremely painless. I will invoice you every two weeks with the first invoice being sent the Friday after work starts. These invoices are due within seven calendar days (and this will be reflected on the invoice). If you prefer a different invoicing timeline, we can make other arrangements. If alternate arrangements are not made before Scoping starts, this point is non-negotiable.
 
-You, the client, will pay me at three (3) different points. Firstly, I'll need
-one-third of the total cost before development starts (scope discussions are free of charge). Then, I'll need the second third after
-I show you the work I've done and you've approved it. Finally, I'll need the
-last third when I actually turn the code over to you (i.e. "made it live", sent it to you in an email, etc.). I do my best to be accommodating, but please understand
-that I am very serious about payment (as I'm sure you are too).
+I only accept electronic payments. The invoicing system I use will allow you to enter your credit card information, which will simultaneously mark the invoice as paid and transfer the money. If other arrangements need to be made to satisfy organizational requirements, we can attempt to make other arrangements before Scoping has started. If alternate arrangements are not made before Scoping starts, this point is non-negotiable.
 
-I only accept electronic payments. The invoicing system I use will allow you to enter your credit card information, which will simultaneously mark the invoice as paid and transfer the money. If other arrangements need to be made to satisfy organizational requirement, we can attempt to make other arrangements before Scoping has started. If alternate arrangements are not made before scoping starts, this point is non-negotiable.
+Upon receipt of payment, I will deliver all work produced during the time period that the invoice covers to the digital location of your choice (email inbox, upload to web server, etc).
 
-4.02 Refunds and Payment Edge-Cases
+4.03 Refunds and Payment Edge-Cases
 -----------------------------------
 
-Both parties (me, the developer, and you, the client) may, at any point in the
-term of the project, withdraw our involvement for any reason. This
-may occur, for instance, if the scope of the project changes to the degree that I am no longer
-confident in my ability to do the work in a way that makes sense for me
-financially. And this rare event will undoubtedly happen after several
-conversations and an unwillingness on the part of the client to accommodate the
-financial consequences of a change in scope. In short, be nice to me and I'll
-happily do the job you pay me to do.
+Both parties (me, the developer, and you, the client) may, at any point in the term of the project, withdraw our involvement for any reason. This rare event will undoubtedly happen after several conversations and an unwillingness on the part of the client to accommodate the financial consequences of a change in scope.
 
-If this happens, I'm confident that we can work out some sort of deal by which
-I get paid for a portion of the work completed, and you receive the portion of
-my work that you paid for. Or, perhaps, we both just decide to call it even. 
+If this happens, no further hours will be billed and a final invoice will be issued. Upon payment of this final invoice, I will deliver any remaining code, assets, etc. to the digital location of your choice (email inbox, upload to web server, etc).
 
-I will under no circumstances release the source
-code of my work to you, the client, without receiving some sort of
-compensation. To me, this just makes sense; you don't get the goods without payment. Neither of us is unreasonable, so, again, be nice to me and I'll
-do everything I can to make sure you are a happy client.
+I will under no circumstances release the source code of my work to you, the client, without receiving some sort of
+compensation. To me, this just makes sense; you don't get the goods without payment. Neither of us is unreasonable, so, again, be nice to me and I'll do everything I can to make sure you are a happy client.
 
-There is one exception, however: time billed as "Project Management" (i.e. client meetings and phone calls, preparing documents, communicating via online tools) is non-refundable. If we both agree to part ways, for whatever reason, you must still pay me for project management time. Sorry, but I've been burned in the past by clients who spend a lot of time planning only to pull the plug at the last minute. You know the type.
+All work is non-refundable.
 
-4.03 Legal Stuff
+4.04 Legal Stuff
 ----------------
 
-As I mentioned before, I am very serious about payment. It is how I am able to
-continue doing what I love to do for a living. (Hopefully) without sounding
-negative, if you, the client, refuse to pay me for whatever reason (assuming
-that I have completed the services as scoped), I will take legal action to
-ensure that I am paid. If the case is decided in my favor, you agree to
-reimburse me for any legal fees I accrue in the process.
+As I mentioned before, I am very serious about payment. It is how I am able to continue doing what I love to do for a living. (Hopefully) without sounding negative, if you, the client, refuse to pay me for whatever reason, I will take legal action to ensure that I am paid. If the case is decided in my favor, you agree to reimburse me for any legal fees I accrue in the process.
 
