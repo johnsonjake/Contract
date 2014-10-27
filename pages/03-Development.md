@@ -11,19 +11,15 @@ This is the fun part.
    there is not, I will set up a Git repository for you and bill you for the
    0.5 hours it will take.
 
-2. I will not do work on your servers. This is sort of a no-brainer; if
-   a client stiffs me on payment, and I did all of my work on their servers,
-   they now have all of my work, and I have none of my money. That's bad. So,
-   I will work locally and deploy to a copy of your site on my server for
+2. With the exception of monthly support agreements, I will not do work on your servers.
+   This is sort of a no-brainer; if a client stiffs me on payment, and I did all of my
+   work on their servers, they now have all of my work, and I have none of my money.
+   That's bad. So, I will work locally and deploy to a copy of your site on my server for
    review, then push code to your server only after we have settled up on
-   payment (more details on this in Section 5 of this agreement).
+   payment (more details on this in Section 5 of this agreement). If you’re a monthly
+   support customer, ignore this line. You’ve prepaid for your work, so it doesn’t apply.
 
-3. I will provide test links to preview functionality based on a schedule that
-   we establish at the start of the project. Typically, "iterations" will be
-   one to two weeks long, and updates and test links will be given at the end
-   of each iteration.
-
-4. All work will be built and approved based on the scope we agree upon.
+3. All work will be built and approved based on the scope we agree upon.
 
 2.02 The Code
 -------------
